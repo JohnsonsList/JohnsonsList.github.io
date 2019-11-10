@@ -1,11 +1,10 @@
 title: meteor-application-template-react
-description: A template for quickly starting Meteor application development
+description: Craigslist style of webiste for UH Manoa community
 google_analytics:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://JohnsonsList.github.io
-
+  repository_url: https://https://github.com/JohnsonsList/JohnsonsList
 gems:
   - jekyll-mentions
