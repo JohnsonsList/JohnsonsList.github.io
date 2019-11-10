@@ -1,6 +1,6 @@
 ## Table of Contents
 * [Overview](#overview)
-* [Goals](#Goals)
+* [Functionality Goals](#Functionality-Goals)
 
 ## Overview
 
@@ -12,7 +12,7 @@ For more information on the techstack used:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [MongoDB](https://www.mongodb.com/) Backend Database for adding objects 
 
-## Goals
+## Functionality Goals
 
 * Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
 * Profiles can be customized to display a picture and a description of the person
