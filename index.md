@@ -1,6 +1,6 @@
 ## Table of Contents
 * [Overview](#overview)
-* [Functionality Goals](#Goals)
+* [Goals](#Goals)
 
 ## Overview
 
