@@ -1,6 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
-* [Functionality Goals](#Functionality-Goals)
+* [Functionality Goals](#functionality-goals)
+* [Installation](#installation)
 
 ## Overview
 
@@ -19,3 +20,19 @@ For more information on the techstack used:
 * Add listing, edit listing, and view listings usability features (Regular users can only add/edit their own while admins can have functionality for all listings)
 * Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
 * Users can flag or report listings that are not related to what the site's purpose is for to admins.
+
+## Installation
+
+To start, [install Meteor](https://www.meteor.com/install).
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
