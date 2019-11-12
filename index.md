@@ -28,11 +28,11 @@ Johnsonslist will feature a selection of pages for the user to comb through. The
 
 ## Landing/Home page
 
-![](images/homepage.jpg)
+![](app/public/images/homepage.jpg)
 
 The homepage will feature navigation to the multiple tabs. The user will be directed here upon start up of application and can navigate without logging in, however, will have limited usability.
 
-![](images/dropdown.jpg)
+![](app/public/images/dropdown.jpg)
 
 The dropdown at the top left of the homepage will allow users to specifically be directed towards the page that they wish to see.
 ## Installation and Running
