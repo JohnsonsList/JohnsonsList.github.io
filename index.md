@@ -21,18 +21,31 @@ For more information on the techstack used:
 * Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
 * Users can flag or report listings that are not related to what the site's purpose is for to admins.
 
-## Installation
+## Johnsonslist Walkthrough
 
-To start, [install Meteor](https://www.meteor.com/install).
+Johnsonslist will feature a selection of pages for the user to comb through. There will be a screenshot of each page below with a description of usability.
+
+## Landing/Home page
+
+![](images/homepage.jpg)
+
+The homepage will feature navigation to the multiple tabs. The user will be directed here upon start up of application and can navigate without logging in, however, will have limited usability.
+
+![](images/dropdown.jpg)
+
+The dropdown at the top left of the homepage will allow users to specifically be directed towards the page that they wish to see.
+## Installation and Running
+
+To intially run the application, [install Meteor](https://www.meteor.com/install).
 
 ```
 $ meteor npm install
 ```
 
-Fourth, run the system with:
+From there, one must do the following command to start up the application:
 
 ```
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
+If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). 
