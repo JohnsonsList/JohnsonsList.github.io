@@ -24,7 +24,7 @@ For more information on the techstack used:
 
 ## Johnsonslist Walkthrough
 
-Johnsonslist will feature a selection of pages for the user to comb through. There will be a screenshot of each page below with a description of usability.
+Johnsonslist will feature a selection of pages for the user to comb through. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
 
 ## Landing/Home page
 
@@ -35,6 +35,12 @@ The homepage will feature navigation to the multiple tabs. The user will be dire
 ![](images/dropdown.jpg)
 
 The dropdown at the top left of the homepage will allow users to specifically be directed towards the page that they wish to see.
+
+![](images/buy-page.jpg)
+
+The buy page, or rather the store home page, is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at. 
+
+
 ## Installation and Running
 
 To intially run the application, [install Meteor](https://www.meteor.com/install).
