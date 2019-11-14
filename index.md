@@ -46,10 +46,15 @@ The store page is the centralized location of the store where users can look at 
 
 This is a rough mock up of what the store page would look like when there are filters for what the user is looking for. There will be cards that pop up with the tags and show each item.
 
-## Sell page
+## Selling an item
 
 ![](images/sell-page.jpg)
 
+This is what the page of selling an item may look like. So this is the page that the user sees when creating a listing to post. They will fill out a form that goes over the item and places it accordingly based on tags and functionality.
+
+![](images/sell-page2.jpg)
+
+This is potentially what the intial home page of the user may look like when choosing to create a listing. It can feature all of the items they currently have up for sale so the user can keep track of what they have listed already.
 
 ## Installation and Running
 
