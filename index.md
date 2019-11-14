@@ -36,9 +36,19 @@ The homepage will feature navigation to the multiple tabs. The user will be dire
 
 The dropdown at the top left of the homepage will allow users to specifically be directed towards the page that they wish to see.
 
+## Store
+
 ![](images/buy-page.jpg)
 
-The buy page, or rather the store home page, is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at. 
+The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at. 
+
+![](images/filtered-page.jpg)
+
+This is a rough mock up of what the store page would look like when there are filters for what the user is looking for. There will be cards that pop up with the tags and show each item.
+
+## Sell page
+
+![](images/sell-page.jpg)
 
 
 ## Installation and Running
