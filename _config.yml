@@ -3,8 +3,8 @@ description: Craigslist style of website for the UH Manoa community where they c
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-minimal
-# github:
-#   is_project_page: true
-#   repository_url: https://github.com/Johnsonslist/Johnsonslist
+github:
+  is_project_page: true
+  repository_url: https://github.com/Johnsonslist/Johnsonslist
 gems:
   - jekyll-mentions
