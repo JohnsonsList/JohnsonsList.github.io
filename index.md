@@ -22,6 +22,15 @@ For more information on the techstack used:
 * Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
 * Users can flag or report listings that are not related to what the site's purpose is for to admins.
 
+## Links
+
+Refer to this section for the various links associated with Johnsonslist.
+
+* [Organization Page](https://github.com/Johnsonslist/) Johnsonslist's organization page
+* [Project Page](http://johnsonslist.meteorapp.com/#/) Johnsonslist's application website
+* [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of the project
+* [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/2) Issues/Goals for milestone 2 of the project
+
 ## Johnsonslist Walkthrough
 
 Johnsonslist will feature a selection of pages for the user to comb through. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
