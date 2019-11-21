@@ -1,7 +1,9 @@
+![](images/JL-logo.png)
+
 ## Table of Contents
 * [Overview](#overview)
-* [Functionality Goals](#functionality-goals)
 * [Links](#links)
+* [Functionality Goals](#functionality-goals)
 * [User Guide](#johnsonslist-walkthrough)
 * [Installation](#installation-and-running)
 
@@ -15,14 +17,6 @@ For more information on the techstack used:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [MongoDB](https://www.mongodb.com/) Backend Database for adding objects 
 
-## Functionality Goals
-
-* Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
-* Profiles can be customized to display a picture and a description of the person
-* Add listing, edit listing, and view listings usability features (Regular users can only add/edit their own while admins can have functionality for all listings)
-* Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
-* Users can flag or report listings that are not related to what the site's purpose is for to admins.
-
 ## Links
 
 Refer to this section for the various links associated with Johnsonslist.
@@ -31,6 +25,14 @@ Refer to this section for the various links associated with Johnsonslist.
 * [Project Page](http://johnsonslist.meteorapp.com/#/) Johnsonslist's application website
 * [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of the project
 * [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/2) Issues/Goals for milestone 2 of the project
+
+## Functionality Goals
+
+* Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
+* Profiles can be customized to display a picture and a description of the person
+* Add listing, edit listing, and view listings usability features (Regular users can only add/edit their own while admins can have functionality for all listings)
+* Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
+* Users can flag or report listings that are not related to what the site's purpose is for to admins.
 
 ## Johnsonslist Walkthrough
 
