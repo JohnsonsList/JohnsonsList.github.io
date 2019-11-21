@@ -1,6 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Functionality Goals](#functionality-goals)
+* [Links](#links)
 * [User Guide](#johnsonslist-walkthrough)
 * [Installation](#installation-and-running)
 
