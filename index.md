@@ -24,7 +24,7 @@ Refer to this section for the various links associated with Johnsonslist.
 * [Organization Page](https://github.com/Johnsonslist/) Johnsonslist's organization page
 * [Project Page](http://johnsonslist.meteorapp.com/#/) Johnsonslist's application website
 * [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of the project
-* [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/2) Issues/Goals for milestone 2 of the project
+* [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/3) Issues/Goals for milestone 2 of the project
 
 ## Functionality Goals
 
