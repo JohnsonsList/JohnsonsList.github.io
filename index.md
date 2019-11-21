@@ -38,13 +38,13 @@ Johnsonslist will feature a selection of pages for the user to comb through. The
 
 ## Landing/Home page
 
-![](images/homepage.jpg)
+![](images/new-landing-page.png)
 
-The homepage will feature navigation to the multiple tabs. The user will be directed here upon start up of application and can navigate without logging in, however, will have limited usability.
+This is the landing page that the users first see when they visit the site. They have the ability to see the layout of the page with the topbar and the footer, but not the shop options. They are required to log in to have those features for now.
 
-![](images/dropdown.jpg)
+![](images/new-home-page.png)
 
-The dropdown at the top left of the homepage will allow users to specifically be directed towards the page that they wish to see.
+This is the home page that the users see when they log in to the site. They now have the shop options in the navbar below the top bar. The navbar also has a dropdown menu that can assist in navigating the site if they choose to navigate that way. The navbar holds the links to direct the user to the shop, their shop, their profile, saved listings, and add a listing. For now there is no search bar yet, but it is in the works to be added currently.
 
 ## Store
 
