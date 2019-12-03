@@ -90,7 +90,7 @@ If done correctly, the application will appear at [http://localhost:3000](http:/
 
 The goal for Milestone 1 was to implement a somewhat working web application using ReactJS, Meteor, MongoDB, and Semantic UI.
 
-
+![](images/M1Screenshot.png)
 
 ## Milestone 2
 
