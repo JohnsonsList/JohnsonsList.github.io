@@ -23,9 +23,9 @@ Refer to this section for the various links associated with Johnsonslist.
 
 * [Organization Page](https://github.com/Johnsonslist/) Johnsonslist's organization page
 * [Project Page](http://johnsonslist.meteorapp.com/#/) Johnsonslist's application website
-* [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of the project
-* [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/3) Issues/Goals for milestone 2 of the project
-
+* [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of JohnsonsList
+* [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/3) Issues/Goals for milestone 2 of JohnsonsList
+* [Milestone 3 Board](https://github.com/Johnsonslist/Johnsonslist/projects/4) Issues/Goals for milestone 3 of JohnsonsList
 ## Functionality Goals
 
 * Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
@@ -96,6 +96,6 @@ Back-End Development:  Kason Shiroma
 
 [https://kasons.github.io/](https://kasons.github.io/)
 
-Back-End Deployment and Github.io page:  Kevin Wong
+Back-End Production/Development and Github.io page:  Kevin Wong
 
 [https://kwong41.github.io/](https://kwong41.github.io/)
