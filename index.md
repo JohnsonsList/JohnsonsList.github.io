@@ -89,7 +89,7 @@ If done correctly, the application will appear at [http://localhost:3000](http:/
 Area 52 Raid Squad:
 
 Front-End Management:  Jake Camarao
-https://jcamarao.github.io/
+[https://jcamarao.github.io/] Professional Profile
 
 Back-End Management:  Kason Shiroma
 https://kasons.github.io/
