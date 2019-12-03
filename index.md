@@ -84,3 +84,15 @@ $ meteor npm run start
 ```
 
 If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). 
+
+## Meet the team!
+Area 52 Raid Squad:
+
+Front-End Management:  Jake Camarao
+https://jcamarao.github.io/
+
+Back-End Management:  Kason Shiroma
+https://kasons.github.io/
+
+Deployment and Github.io page:  Kevin Wong
+https://kwong41.github.io/
