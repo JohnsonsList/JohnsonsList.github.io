@@ -89,10 +89,13 @@ If done correctly, the application will appear at [http://localhost:3000](http:/
 Area 52 Raid Squad:
 
 Front-End Development:  Jake Camarao
+
 [https://jcamarao.github.io/](https://jcamarao.github.io/)
 
 Back-End Development:  Kason Shiroma
+
 [https://kasons.github.io/](https://kasons.github.io/)
 
 Back-End Deployment and Github.io page:  Kevin Wong
+
 [https://kwong41.github.io/](https://kwong41.github.io/)
