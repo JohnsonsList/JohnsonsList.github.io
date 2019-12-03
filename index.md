@@ -26,6 +26,7 @@ Refer to this section for the various links associated with Johnsonslist.
 * [Milestone 1 Board](https://github.com/Johnsonslist/Johnsonslist/projects/1) Issues/Goals for milestone 1 of JohnsonsList
 * [Milestone 2 Board](https://github.com/Johnsonslist/Johnsonslist/projects/3) Issues/Goals for milestone 2 of JohnsonsList
 * [Milestone 3 Board](https://github.com/Johnsonslist/Johnsonslist/projects/4) Issues/Goals for milestone 3 of JohnsonsList
+
 ## Functionality Goals
 
 * Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
@@ -36,7 +37,7 @@ Refer to this section for the various links associated with Johnsonslist.
 
 ## Johnsonslist Walkthrough
 
-Johnsonslist will feature a selection of pages for the user to comb through. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
+Johnsonslist will feature a selection of pages for the user to browse. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
 
 ## Landing/Home page
 
@@ -84,6 +85,18 @@ $ meteor npm run start
 ```
 
 If done correctly, the application will appear at [http://localhost:3000](http://localhost:3000). 
+
+## Milestone 1
+
+The goal for Milestone 1 was to implement a somewhat working web application using ReactJS, Meteor, MongoDB, and Semantic UI.
+
+
+
+## Milestone 2
+
+After some thought into this, we added some issues that 
+## Milestone 3
+
 
 ## Meet the team!
 Area 52 Raid Squad:
