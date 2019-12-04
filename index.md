@@ -101,7 +101,7 @@ After some thought into this, we added some issues that
 ## Meet the team!
 Area 52 Raid Squad:
 
-Front-End Development:  Jake Camarao
+Front-End Development/Back-End Development/Github.io page:  Jake Camarao
 
 [https://jcamarao.github.io/](https://jcamarao.github.io/)
 
