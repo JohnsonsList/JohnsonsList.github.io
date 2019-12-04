@@ -39,12 +39,14 @@ Refer to this section for the various links associated with Johnsonslist.
 
 Johnsonslist will feature a selection of pages for the user to browse. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
 
-## Landing/Home page
+## Landing page
 
 ![](images/LandingPageJohnsonsList.png)
 
 
 This is the [landing page](http://johnsonslist.meteorapp.com/#/).  This is what a new visitor first sees when they visit the site. They have the ability to see the layout of the page with the topbar and the footer, but not the shop options. They are required to log in to have those features for now.
+
+## Home page
 
 ![](images/HomePageJohnsonsList.png)
 
