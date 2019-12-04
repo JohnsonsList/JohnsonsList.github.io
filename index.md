@@ -41,10 +41,10 @@ Johnsonslist will feature a selection of pages for the user to browse. There wil
 
 ## Landing/Home page
 
-![](images/new-landing-page.png)
+![](images/LandingPageJohnsonsList.png)
 
 
-This is the [landing page](http://johnsonslist.meteorapp.com/#/) that the users first see when they visit the site. They have the ability to see the layout of the page with the topbar and the footer, but not the shop options. They are required to log in to have those features for now.
+This is the [landing page](http://johnsonslist.meteorapp.com/#/).  This is what a new visitor first sees when they visit the site. They have the ability to see the layout of the page with the topbar and the footer, but not the shop options. They are required to log in to have those features for now.
 
 ![](images/new-home-page.png)
 
