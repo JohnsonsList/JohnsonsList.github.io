@@ -117,4 +117,4 @@ Back-End Production/Development and Github.io page: Kevin Wong
 
 ## Feedback
 
-If you have any questions or concerns please feel free to contact us with this feedback page! (https://forms.gle/1T815j9Ddjxcprkx7)[feedback page]
+If you have any questions or concerns please feel free to contact us with this [feedback page!] (https://forms.gle/1T815j9Ddjxcprkx7)
