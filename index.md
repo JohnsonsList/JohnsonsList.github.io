@@ -9,7 +9,7 @@
 
 ## Overview
 
-Johnslists list is a website utilizing semantic ui, react.js, meteor, and mongoDB to create a website that can be used by students to trade common goods. Community members of UH Manoa can add common goods, such as textbooks or appliances, that they no longer need and create listings with details about said item. 
+Johnslists list is a website utilizing semantic ui, react.js, meteor, and mongoDB to create a website that can be used by undergraduate and graduate students to trade common goods. Community members of UH Manoa can add common goods, such as textbooks or appliances, that they no longer need and create listings with details about said item. 
 
 For more information on the techstack used:
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
