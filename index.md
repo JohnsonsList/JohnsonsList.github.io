@@ -94,7 +94,6 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 
 ## Milestone 2
 
-After some thought into this, we added some issues that 
 ## Milestone 3
 
 
