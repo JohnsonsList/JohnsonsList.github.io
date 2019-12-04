@@ -100,17 +100,14 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 ## Meet the team!
 Area 52 Raid Squad:
 
-Front-End Development/Back-End Development/Github.io page:  
-Jake Camarao
+Front-End/Back-End Development/Github.io page: Jake Camarao
 
 [https://jcamarao.github.io/](https://jcamarao.github.io/)
 
-Back-End Development: 
-Kason Shiroma
+Back-End Development: Kason Shiroma
 
 [https://kasons.github.io/](https://kasons.github.io/)
 
-Back-End Production/Development and Github.io page: 
-Kevin Wong
+Back-End Production/Development and Github.io page: Kevin Wong
 
 [https://kwong41.github.io/](https://kwong41.github.io/)
