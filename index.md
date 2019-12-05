@@ -92,13 +92,13 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 
 Here are some "behind-the-scenes" drawings that we used as mock-up drafts in the creation of our web application.
 
-# Mock-up Home Page
+## Mock-up Home Page
 ![](images/sell-page2.jpg)
 
-# Mock-up Shopping Page
+## Mock-up Shopping Page
 ![](images/filtered-page.jpg)
 
-# Mock-up Selling an item Page
+## Mock-up Selling an item Page
 ![](images/sell-page.jpg)
 
 
