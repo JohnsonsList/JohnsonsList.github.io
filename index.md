@@ -64,9 +64,9 @@ The store page is the centralized location of the store where users can look at 
 
 This is what the page of selling an item looks like. It is complete with the following tabs:  Name, Contact Information, Image (HTML links only no uploads), Description, Price, Condition, and Categories. Each tab that is listed is a required tab in order to post an item to be sold on the website.  Note:  an item that is being posted in a specific category will go to that tab alongside the website.  For example, if you are planning on selling an electronic device, you would post it under the category "Electronics".  This item would automatically pop-up as an item under the "Electronics" tab on the top navigation bar.
 
-![](images/sell-page2.jpg)
+![](images/EditStuffPage.png)
 
-This is potentially what the intial home page of the user may look like when choosing to create a listing. It can feature all of the items they currently have up for sale so the user can keep track of what they have listed already.
+While selling an item, users will also be able to edit their own items.  They can change their own characteristics and distinctions of their item so that each item being sold will look unique in the shopping page. 
 
 ## Installation and Running
 
