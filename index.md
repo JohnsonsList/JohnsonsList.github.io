@@ -52,7 +52,7 @@ This is the [landing page](http://johnsonslist.meteorapp.com/#/).  This is what 
 
 This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see when they log in to the site. They now have the shop options in the navbar below the top bar. The navbar also has a dropdown menu that can assist in navigating the site if they choose to navigate that way. The navbar holds the links to direct the user to the shop, their shop, their profile, saved listings, and add a listing. For now there is no search bar yet, but it is in the works to be added currently.
 
-## Store page
+## Store/Shopping page
 
 ![](images/Store.png)
 
@@ -90,11 +90,17 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 
 ![](images/M1Screenshot.png)
 
-Here are some images that we used in the creation of our web project.
+Here are some "behind-the-scenes" drawings that we used as mock-up drafts in the creation of our web application.
 
-![](images/filtered-page.jpg)
-![](images/sell-page.jpg)
+# Mock-up Home Page
 ![](images/sell-page2.jpg)
+
+# Mock-up Shopping Page
+![](images/filtered-page.jpg)
+
+# Mock-up Selling an item Page
+![](images/sell-page.jpg)
+
 
 ## Milestone 2
 
