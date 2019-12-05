@@ -94,6 +94,12 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 
 ![](images/M1Screenshot.png)
 
+Here are some images that we used in the creation of our web project.
+
+![](images/filtered-page.jpg)
+![](images/sell-page.jpg)
+![](images/sell-page2.jpg)
+
 ## Milestone 2
 
 In developmental stage.  Coming soon!
@@ -106,15 +112,15 @@ In developmental stage.  Coming soon!
 
 Area 52 Raid Squad:
 
-Front-End/Back-End Development/Github.io page: Jake Camarao
+Front-End/Back-End Development/JohnsonsList Github.io page: Jake Camarao
 
 [https://jcamarao.github.io/](https://jcamarao.github.io/)
 
-Back-End Development: Kason Shiroma
+Front-End/Back-End Development: Kason Shiroma
 
 [https://kasons.github.io/](https://kasons.github.io/)
 
-Back-End Production/Development and Github.io page: Kevin Wong
+Back-End Production/Development/JohnsonsList Github.io page: Kevin Wong
 
 [https://kwong41.github.io/](https://kwong41.github.io/)
 
