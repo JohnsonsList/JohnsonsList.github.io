@@ -29,7 +29,7 @@ Refer to this section for the various links associated with Johnsonslist.
 
 ## Functionality Goals
 
-* Two types of users: Regular and Admin (Both of which log in from the same page, but get directed to different home screens)
+* Two types of users: Regular and Administrator (Both of which log in from the same page, but get directed to different home screens and contrasting functionality)
 * Profiles can be customized to display a picture and a description of the person
 * Add listing, edit listing, and view listings usability features (Regular users can only add/edit their own while admins can have functionality for all listings)
 * Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
