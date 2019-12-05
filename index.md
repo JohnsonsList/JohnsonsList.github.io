@@ -54,19 +54,14 @@ This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see
 
 ## Store page
 
-![](images/SellingItemPage.png)
-
-The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at. 
-
 ![](images/Store.png)
 
-This is the store page where users can view other students' items that they are selling.
-
+The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at.
 ## Selling an item
 
-![](images/sell-page.jpg)
+![](images/SellingItemPage.png)
 
-This is what the page of selling an item may look like. So this is the page that the user sees when creating a listing to post. They will fill out a form that goes over the item and places it accordingly based on tags and functionality.
+This is what the page of selling an item looks like. This is the page that the user sees when creating a listing to post. They will fill out a form that goes over the item and places it accordingly based on tags and functionality.
 
 ![](images/sell-page2.jpg)
 
