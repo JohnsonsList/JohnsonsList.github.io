@@ -58,9 +58,9 @@ This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see
 
 The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at. 
 
-![](images/filtered-page.jpg)
+![](images/Store.png)
 
-This is a rough mock up of what the store page would look like when there are filters for what the user is looking for. There will be cards that pop up with the tags and show each item.
+This is the store page where users can view other students' items that they are selling.
 
 ## Selling an item
 
