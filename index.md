@@ -96,8 +96,11 @@ The goal for Milestone 1 was to implement a somewhat working web application usi
 
 ## Milestone 2
 
+In developmental stage.  Coming soon!
+
 ## Milestone 3
 
+In developmental stage.  Coming soon!
 
 ## Meet the team!
 
