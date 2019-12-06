@@ -112,7 +112,7 @@ In developmental stage.  Coming soon!
 
 ## Meet the team!
 
-Area 52 Raid Squad:
+![](images/Area52RaidSquad.png)
 
 Front-End/Back-End Development/JohnsonsList Github.io page: Jake Camarao
 
