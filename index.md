@@ -104,7 +104,7 @@ Here are some "behind-the-scenes" drawings that we used as mock-up drafts in the
 
 ## Milestone 2
 
-In developmental stage.  Coming soon!
+The goal for milestone 2 was to use this somewhat-working web application and increase it's functionality.  In doing so, we met several times in a group meeting and asked ourselves, "how could we increase the user experience and navigation?".  We thought out multiple ideas that catered towards the user-friendly experience by increasing issues of this milestone and then executing accordingly to each respective issue.  If any one of us needed help in an issue, we were there to back them up and possibly recreate that issue and break it down into smaller parts to solve algorithmically.  
 
 ## Milestone 3
 
