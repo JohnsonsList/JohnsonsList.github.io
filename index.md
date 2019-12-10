@@ -123,7 +123,7 @@ The goal for milestone 2 was to use this somewhat-working web application and in
 
 ## Milestone 3
 
-In developmental stage.  Coming soon!
+Finally, milestone 3 complimented milestone 2 by further refining and increasing the user functionality of this web app.  This means we as a whole took our ideas from milestone 2 and refined them.  Some ideas that we had in Milestone 2, we used a dynamic programming approach by minimizing clutter alongside the navigation bar.  Initially, our navbar had multiple tabs that were created to filter out different types of items that is being viewed on the store.  By creating a left side-bar, we could add as many filters as we wanted to without making the website look too cluttered and confusing for the everyday user.  Metaphorically speaking, it is like a blacksmith sharpening or reforging a sword so that the sword will look good, feel good, and can slice through anything you swing the sword at.  Please click [here](https://github.com/Johnsonslist/Johnsonslist/projects/4) for more information about Milestone 3.
 
 ## Meet the team!
 
