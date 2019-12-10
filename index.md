@@ -54,9 +54,9 @@ This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see
 
 ## Store/Shopping page
 
-![](images/StorePage.png)
+![](images/Store.png)
 
-The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at.
+The store page is the centralized location of the store where users can look at and filter through categories of items that they wish to specifically look at.  There is a sidebar on the left-hand side that filters specific types of items for ease of use viewing that can cater to the user's interest.
 
 ## Selling an item
 
