@@ -76,7 +76,20 @@ To intially run the application, [install Meteor](https://www.meteor.com/install
 $ meteor npm install
 ```
 
-From there, one must do the following command to start up the application:
+Next, go to [this](https://github.com/Johnsonslist/Johnsonslist) link and clone this project to your local computer.
+You can either download a zip file version of this project or run it through the commandline using the following commands:
+
+```
+cd (in your local directory of where you stored this project)
+```
+
+then run this command:
+
+```
+cd app
+```
+
+From there, run the following command to start up the application:
 
 ```
 $ meteor npm run start
