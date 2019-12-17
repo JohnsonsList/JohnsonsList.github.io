@@ -48,9 +48,15 @@ This is the [landing page](http://johnsonslist.meteorapp.com/#/).  This is what 
 
 ## Home page
 
-![](images/HomePage.png)
+![](images/HomePageJohnsonsList.png)
 
 This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see when they log in to the site. They now have the shop options in the navbar below the top bar. The navbar also has a dropdown menu that can assist in navigating the site if they choose to navigate that way. The navbar holds the links to direct the user to the shop, their shop, their profile, saved listings, and add a listing. For now there is no search bar yet, but it is in the works to be added currently.
+
+## Website Guide
+
+![](images/WebsiteGuide.png)
+
+This is the website guide in JohnsonsList.  This page gives you a step-by-step instructional walkthrough on what to do while buying and selling an item.  This is where most users should start at if you are lost at where to go as far as buying and selling an item on this website.
 
 ## Store/Shopping page
 
