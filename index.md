@@ -35,7 +35,7 @@ Refer to this section for the various links associated with Johnsonslist.
 * Listings can be filtered depending on what specifically the user is looking for (Ex. textbooks specifically for biology)
 * Users can flag or report listings that are not related to what the site's purpose is for to admins.
 
-## Johnsonslist Walkthrough
+## User Guide
 
 Johnsonslist will feature a selection of pages for the user to browse. There will be a screenshot of each page below with a description of usability. For now, it displays rough mockups of what each page may or may not look like in its finalized version.
 
@@ -74,7 +74,7 @@ This is what the page of selling an item looks like. It is complete with the fol
 
 While selling an item, users will also be able to edit their own items.  They can change their own characteristics and distinctions of their item so that each item being sold will look unique in the shopping page. 
 
-## Installation and Running
+## Developer Guide (Windows/Mac)
 
 To intially run the application, [install Meteor](https://www.meteor.com/install).
 
@@ -132,6 +132,13 @@ The goal for milestone 2 was to use this somewhat-working web application and in
 Finally, milestone 3 complimented milestone 2 by further refining and increasing the user functionality of this web app.  This means we as a whole took our ideas from milestone 2 and refined them.  Some ideas that we had in Milestone 2, we used a dynamic programming approach by minimizing clutter alongside the navigation bar.  Initially, our navbar had multiple tabs that were created to filter out different types of items that is being viewed on the store.  By creating a left side-bar, we could add as many filters as we wanted to without making the website look too cluttered and confusing for the everyday user.  Metaphorically speaking, it is like a blacksmith sharpening or reforging a sword so that the sword will look good, feel good, and can slice through anything you swing the sword at.  Please click [here](https://github.com/Johnsonslist/Johnsonslist/projects/4) for more information about Milestone 3.
 
 ![](images/M3SS.png)
+
+## What makes this project stand out from others (what is our special sauce)?
+
+We believe that our project has plenty of user-friendly functionality to go with our project.  However, we spent the most time trying to refine this project by creating an application that would look eye-appealing both to the user and the administrators that use it.  We put alot of throught into the graphics design of this website as well as the Johnsonslist logos, team logos, and multiple other exciting web pages and we wanted to celebrate that by showing it off in this project.  We believe that this sales website has what it takes to compete against other buy and sell websites.  To summarize, with the combination of user-friendliness and graphics design, we believe that this web application stands out amongst some of the best sites out there.  
+
+## Community Feedback
+
 
 ## Meet the team!
 
