@@ -50,7 +50,7 @@ This is the [landing page](http://johnsonslist.meteorapp.com/#/).  This is what 
 
 ![](images/HomePageJohnsonsList.png)
 
-This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see when they log in to the site. They now have the shop options in the navbar below the top bar. The navbar also has a dropdown menu that can assist in navigating the site if they choose to navigate that way. The navbar holds the links to direct the user to the shop, their shop, their profile, saved listings, and add a listing. For now there is no search bar yet, but it is in the works to be added currently.
+This is the [home page](http://johnsonslist.meteorapp.com/#/) that the users see when they log in to the site. They now have the "store", "add an item", and "website" options in the navbar below the top bar.  When a user logs onto the site, you will see a search bar that pops up in the middle of the website that helps you to navigate to what the user might want to buy.
 
 ## Website Guide
 
