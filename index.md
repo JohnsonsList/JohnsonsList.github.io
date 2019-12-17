@@ -137,9 +137,6 @@ Finally, milestone 3 complimented milestone 2 by further refining and increasing
 
 We believe that our project has plenty of user-friendly functionality to go with our project.  However, we spent the most time trying to refine this project by creating an application that would look eye-appealing both to the user and the administrators that use it.  We put alot of throught into the graphics design of this website as well as the Johnsonslist logos, team logos, and multiple other exciting web pages and we wanted to celebrate that by showing it off in this project.  We believe that this sales website has what it takes to compete against other buy and sell websites.  To summarize, with the combination of user-friendliness and graphics design, we believe that this web application stands out amongst some of the best sites out there.  
 
-## Community Feedback
-
-
 ## Meet the team!
 
 ![](images/Area52RaidSquad.png)
@@ -155,6 +152,24 @@ Front-End/Back-End Development: Kason Shiroma
 Back-End Production/Development/JohnsonsList Github.io page: Kevin Wong
 
 [https://kwong41.github.io/](https://kwong41.github.io/)
+
+## Community Feedback
+
+- Love the idea! I think it does need a bit of development though. I think a site like this is definitely useful for UH students. If it catches on, I really think it has potential to grow.
+
+- Clean UI
+
+- I like the color scheme and it was easy and fast for me to list my item.
+
+- Very visually nice. Easy to navigate. Looks professional.
+
+- I like that you can browse through items by category or search for a specific item using the search bar. Also, I like that you are able to contact the admin to let them know if there's an issue with something. Overall, the design is minimalistic and functional. I especially like the look of the landing page--it looks very professional. 
+
+- The mobile interface definitely needs work: the images are skewed, and the text fields are sized in such a way that they're difficult to read or enter text into (during the sign-up process). The desktop version looks great though. It's clean and simple, as a site should be.
+
+- categorized well 
+
+- search bar is a little limited: can only search for item name and nothing else.
 
 ## Feedback
 
